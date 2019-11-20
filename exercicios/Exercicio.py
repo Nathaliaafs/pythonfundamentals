@@ -75,3 +75,23 @@
 
 
 
+#crie uma função que peça 2 numeros e retorne o maior 
+#se no valor for igual print "valores iguais"  
+# guarde em uma variavel e print
+
+
+def Nmaior(n1,n2):
+    if n1 = n2
+      return 'valore igua'
+    else:
+
+var = Nmaior (11,12)
+print (var)    
+
+
+#crie uma funcao que receba um numero...
+
+def ordenados(*valores):
+  return sorted(valores, reverse= True)
+
+  
